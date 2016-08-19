@@ -2,7 +2,7 @@
  
 var aws = require("../AmazonLib/lib/aws");
 
-prodAdv = aws.createProdAdvClient("YOUR_ACCESS_KEY", "YOUR_SECRET_ACCESS_KRY", "YOUR_AFFILIATE_TRACKING_ID");
+prodAdv = aws.createProdAdvClient("YOUR_ACCESS_KEY", "YOUR_SECRET_ACCESS_KEY", "YOUR_AFFILIATE_TRACKING_ID");
 
 
 //returns thousands of items (uncomment the code below)
