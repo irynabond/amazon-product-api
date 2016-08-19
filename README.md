@@ -7,8 +7,9 @@
 git clone https://github.com/irynabond/amazon-product-api.git
 ```
 ####Open command prompt or terminal in project directory. Run the command
+```html
 npm install
-
+```
 It should install express package
 
 #### Open index.js file in js folder
