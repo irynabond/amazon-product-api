@@ -12,6 +12,12 @@ npm install
 ```
 It should install express package
 
+###Open command prompt or terminal in AmazonLib directory. Run the command
+```html
+npm install
+```
+It should install essential library packages
+
 ### Open index.js file in js folder
 * Get your tracking id: https://affiliate-program.amazon.com
 * Get security credentials here (you need to sign up to get them): https://console.aws.amazon.com/iam/home?region=us-west-2#security_credential 
