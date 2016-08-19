@@ -1,5 +1,5 @@
 var express = require('express');
-var indixAPI = require(__dirname + '/index');
+var amazonAPI = require(__dirname + '/index');
 var app = express();
 
 
