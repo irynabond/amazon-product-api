@@ -18,7 +18,7 @@ It should install express package
 
 * Put your access key, secret access key and tracking id in appropriate fields.
 
-###Edit code in indes.js if you want
+###Edit code in index.js if you want
 
 ####Run the program
 Open command prompt or teminal in 'js' directory. Then:
